@@ -131,7 +131,7 @@ const HeroSection = () => {
           
           {/* ✅ Left Side: Text */}
           <div className="text-container">
-          <p className="cleaning">// Cleaning Services</p>
+          <p className="cleaning">Cleaning Services</p>
 
             <h1 className="heading-hero">Looking For an <br/> Skilled Cleaners </h1>
             <p className="heading-hero">Your health is our priority. Get the best medical services here.</p>

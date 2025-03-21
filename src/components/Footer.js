@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { FaFacebookF, FaEnvelope, FaPhoneAlt } from "react-icons/fa";
+import { FaFacebookF, FaEnvelope } from "react-icons/fa";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FaLocationDot } from "react-icons/fa6";
 import { IoIosMail } from "react-icons/io";
@@ -150,17 +150,17 @@ const IconWrapper = styled.a`
 `;
 
 
-const Copyright = styled.div`
-  margin-top: 30px;
-  font-size: 14px;
-  opacity: 0.7;
-  width: 100%;
-  text-align: center;
+// const Copyright = styled.div`
+//   margin-top: 30px;
+//   font-size: 14px;
+//   opacity: 0.7;
+//   width: 100%;
+//   text-align: center;
 
-  @media (min-width: 768px) {
-    margin-top: 40px;
-  }
-`;
+//   @media (min-width: 768px) {
+//     margin-top: 40px;
+//   }
+// `;
 
 const Footer = () => {
   return (

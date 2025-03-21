@@ -171,13 +171,6 @@ const Footer = () => {
         {/* <GreenDiv /> */}
         <p>
           <strong>
-            {" "}
-            <FaLocationDot style={{ marginRight: 8, color: "#2F7BAA" }} />
-            Glendale Heights, Illinois USA
-          </strong>
-        </p>
-        <p>
-          <strong>
             <IoIosMail style={{ marginRight: 8, color: "#2F7BAA" }} />{" "}
           </strong>
           <a

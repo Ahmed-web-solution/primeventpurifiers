@@ -36,7 +36,7 @@ background-size: cover;
 const statsData = [
   { icon: <FaHeadset />, number: "24/7", text: "Helpline Service" },
   { icon: <FaAward />, number: "4000+", text: "Successful Projects" },
-  { icon: <FaFileAlt />, number: "250", text: "Expert Employee" },
+  { icon: <FaFileAlt />, number: "250+", text: "Expert Employee" },
   { icon: <FaUsers />, number: "40+", text: "States Served" },
 ];
 

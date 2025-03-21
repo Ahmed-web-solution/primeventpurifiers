@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import { FaFacebookF, FaEnvelope } from "react-icons/fa";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { FaLocationDot } from "react-icons/fa6";
 import { IoIosMail } from "react-icons/io";
 // import { hover } from '@testing-library/user-event/dist/hover';
 

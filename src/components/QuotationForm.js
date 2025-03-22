@@ -145,8 +145,10 @@ const QuotationForm = () => {
     setLoading(true);
     setMessage("");
 
+    const url = "https://node-mailer-template-production.up.railway.app/send-email"
+
     try {
-      const response = await fetch("http://localhost:5000/send-email", {
+      const response = await fetch(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
